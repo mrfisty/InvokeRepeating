@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://watxw6rroc3a"]
+
+[ext_resource type="Script" path="res://Utility/invoke_repeating.gd" id="1_0tyl1"]
+
+[node name="InvokeRepeating" type="Node"]
+script = ExtResource("1_0tyl1")
